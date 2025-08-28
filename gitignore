@@ -1,0 +1,7 @@
+# ignore data and checkpoints
+chest-xray/
+*.pt
+*.pth
+*.png
+*.jpg
+*.jpeg
